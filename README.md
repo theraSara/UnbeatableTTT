@@ -28,6 +28,6 @@ This repository contains a Python implementation of an **Unbeatable Tic Tac Toe*
 2. Navigate to the project folder and run the script using the following command:
 
 ```bash
-python unbeatable_tic_tac_toe.py
+python main.py
 ```
 3. The game will be open, and you can start playing.
