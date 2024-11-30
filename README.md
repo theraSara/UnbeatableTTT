@@ -2,6 +2,9 @@
 
 This repository contains a Python implementation of an **Unbeatable Tic Tac Toe** game using the **minimax algorithm** and a simple **GUI** built with **Tkinter**. The game is designed to be unbeatable by the player when playing against the AI, as it utilizes an optimal strategy for both the AI and the human player.
 
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/c6db5c1d-def3-4fb7-a404-bb34a339dd8b">
+
+
 ## Key Features
 
 - **Unbeatable AI:** The AI uses the **minimax algorithm** to choose the best move, making it impossible for the player to win if they play optimally.
